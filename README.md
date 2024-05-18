@@ -1,4 +1,4 @@
-# SECURITY AND RISK MANAGEMENT AND CERTIFICATIONS 2022-23 (SCQ0089517)
+# SECURITY AND RISK MANAGEMENT AND CERTIFICATIONS 2022-2023 (SCQ0089517)
 
   This GitHub repository houses materials and projects related to the Information Security course I attended at the University of Padova during the 2022/2023 academic year. It includes my assessment project for Verizon Telecommunications.
 
